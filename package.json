@@ -1,0 +1,32 @@
+{
+  "name": "@balmli/homey-moment-timezone",
+  "version": "1.0.8",
+  "description": "MomentJS Timezone for Homey apps",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "type": "commonjs",
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "node",
+    "moment",
+    "momentjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balmli/node-homey-moment-timezone.git"
+  },
+  "author": "bjornar.almli@gmail.com",
+  "bugs": {
+    "url": "https://github.com/balmli/node-homey-moment-timezone/issues"
+  },
+  "homepage": "https://github.com/balmli/node-homey-moment-timezone#readme",
+  "license": "ISC",
+  "dependencies": {
+    "@balmli/homey-moment": "1.0.8"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
